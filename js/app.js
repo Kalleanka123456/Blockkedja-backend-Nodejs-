@@ -1,5 +1,5 @@
-const validUsername = "admin";
-const validPassword = "Patient123!";
+const validUsername = "Kalle";
+const validPassword = "Anka";
 
 const loginForm = document.getElementById("login-form");
 const usernameInput = document.getElementById("username");
